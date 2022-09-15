@@ -1,4 +1,4 @@
-# vite-template
+# covid-map-v2
 
 [vue cli + vue3模板](https://github.com/connectshark/vue3-template)
 
